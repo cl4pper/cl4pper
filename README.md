@@ -16,7 +16,7 @@ Using ✨React and ✨Node, and working as a ✨team, I believe we can fulfill o
 
 ### Info:
 
-If you wanna help, follow these [commit rules](https://www.notion.so/cl4pper/Commits-pattern-8e888f04338a48bf8b8ba0a39b1767f8) before push some change.
+If you wanna help, follow these [commit rules](https://cl4pper.notion.site/Commits-pattern-8e888f04338a48bf8b8ba0a39b1767f8) on Notion before push some change.
 
 ### Thanks and see y'all later.
 
