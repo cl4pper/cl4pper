@@ -9,9 +9,9 @@ Using ✨React and ✨Node, and working as a ✨team, I believe we can fulfill o
 
 ### Main projects:
 
-[React boilerplate](https://github.com/cl4pper/react-boilerplate): a react base project ready to help you start your idea development.
+[react-setup](https://github.com/cl4pper/react-setup): a react boilerplate project. Ready to help you start to develop your own ideas.
 
-[Node API boilerplate](https://github.com/cl4pper/api-boilerplate): a Node base project ready to help you start your own API (*under tests*).
+[node-plate](https://github.com/cl4pper/node-plate): a Node project boilerplate to fasten up your API development.
 
 
 ### Info:
