@@ -19,13 +19,6 @@ I love putting my ideas into a paper and then bringing them into code.
 
 [react-setup](https://github.com/cl4pper/react-setup): a boilerplate to help you starting to develop your own ideas based on React.
 
-[node-plate](https://github.com/cl4pper/node-plate): a template made to fasten up your Node based project development.
-
-
-### Info:
-
-If you wanna help, follow these [commit rules](https://cl4pper.notion.site/Commits-pattern-8e888f04338a48bf8b8ba0a39b1767f8) on Notion before push some change.
-
 
 ### Thanks and see y'all later.
 
