@@ -8,7 +8,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-Call me Matts or cl4pper.
+You can call me by cl4pper.
+
+I'm a pro **frontend developer** living and working in Europe.
+
+Since designing and developing the UI attracts me the most, I consider myself more alike an **interface engineer**.
 
 I love putting my ideas into a paper and then bringing them into code.
 
@@ -17,10 +21,8 @@ I love putting my ideas into a paper and then bringing them into code.
 
 ✨[nuke-cli](https://www.npmjs.com/package/nuke-cli): a CLI to power up your web based project (first version).✨
 
-[react-setup](https://github.com/cl4pper/react-setup): a boilerplate to help you starting to develop your own ideas based on React.
 
-
-### Thanks and see y'all later.
+### Happy coding.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-de-souza-19895316a/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cl4pper)
