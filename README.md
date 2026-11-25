@@ -10,17 +10,31 @@
 
 You can call me by cl4pper.
 
-I'm a pro **frontend developer** living and working in Europe.
+I'm a **Product Engineer** with over 7 years of experience taking projects from feature definition and UI design to delivered products, mainly with **React** and **TypeScript**, and leading feature implementations that follow project roadmaps and PO requirements. Among those professional products, you will find enterprise web applications for the automotive, media and telecom industries, healthtech and e-sports products, a payment system and tools to support other developers.
 
 Since designing and developing the UI attracts me the most, I consider myself more alike an **interface engineer**.
 
 I love putting my ideas into a paper and then bringing them into code.
 
+### Professional stack:
+
+- **Frontend:** React, TypeScript, JavaScript, Redux, Context API, Vue.js, SASS, Tailwind CSS, Webpack, Gulp
+- **Backend and data:** Node.js, Express, Kotlin, Python, Bash, GraphQL, REST, WebSocket, PostgreSQL, MongoDB
+- **Testing:** Playwright, Jest, React Testing Library
+- **Cloud and design:** AWS, Docker, GitHub Actions, Jenkins, Datadog, Unlighthouse, Figma, Adobe XD
+
+### GitHub stack:
+
+- **Web:** React, TypeScript, Redux, Context API, SASS, Webpack, Node.js, NestJS, PostgreSQL
+- **Testing and tooling:** Jest, Supertest, Playwright, Docker, GitHub Actions, Claude Code
+- **Exploring:** Python (Flask, NumPy, pandas), Go, C++/Arduino
 
 ### Main projects:
 
-✨[nuke-cli](https://www.npmjs.com/package/nuke-cli): a CLI to power up your web based project (first version).✨
-
+- ✨ [nuke-cli](https://www.npmjs.com/package/nuke-cli): npm CLI that scaffolds React and TypeScript projects and generates components.
+- [react-setup](https://github.com/cl4pper/react-setup): the React boilerplate behind nuke-cli, with reusable components, theming, Docker and CI.
+- [node-postgres](https://github.com/cl4pper/node-postgres): containerized Node.js and PostgreSQL API starter.
+- [agentic-flows](https://github.com/cl4pper/agentic-flows) (in progress): reusable Claude Code workflows with human approval gates.
 
 ### Happy coding.
 
