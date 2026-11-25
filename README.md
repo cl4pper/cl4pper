@@ -10,7 +10,7 @@
 
 You can call me by cl4pper.
 
-I'm a **Product Engineer** with over 7 years of experience taking projects from feature definition and UI design to delivered products, mainly with **React** and **TypeScript**, and leading feature implementations that follow project roadmaps and PO requirements. Among those professional products, you will find enterprise web applications for the automotive, media and telecom industries, healthtech and e-sports products, a payment system and tools to support other developers.
+I'm a **Product Engineer** living and working in Europe, with over 7 years of experience taking projects from feature definition and UI design to delivered products, mainly with **React** and **TypeScript**, and leading feature implementations that follow project roadmaps and PO requirements. Among those professional products, you will find enterprise web applications for the automotive, media and telecom industries, healthtech and e-sports products, a payment system and tools to support other developers.
 
 Since designing and developing the UI attracts me the most, I consider myself more alike an **interface engineer**.
 
