@@ -21,12 +21,12 @@ I love putting my ideas into a paper and then bringing them into code.
 - **Frontend:** React, TypeScript, JavaScript, Redux, Context API, Vue.js, SASS, Tailwind CSS, Webpack, Gulp
 - **Backend and data:** Node.js, Express, Kotlin, Python, Bash, GraphQL, REST, WebSocket, PostgreSQL, MongoDB
 - **Testing:** Playwright, Jest, React Testing Library
-- **Cloud and design:** AWS, Docker, GitHub Actions, Jenkins, Datadog, Unlighthouse, Figma, Adobe XD
+- **Cloud, design and tools:** AWS, Docker, GitHub Actions, Jenkins, Datadog, Unlighthouse, Claude, Figma, Adobe XD
 
 ### GitHub stack:
 
 - **Web:** React, TypeScript, Redux, Context API, SASS, Webpack, Node.js, NestJS, PostgreSQL
-- **Testing and tooling:** Jest, Supertest, Playwright, Docker, GitHub Actions, Claude Code
+- **Testing and tooling:** Jest, Supertest, Playwright, Docker, GitHub Actions, Claude
 - **Exploring:** Python (Flask, NumPy, pandas), Go, C++/Arduino
 
 ### Main projects:
